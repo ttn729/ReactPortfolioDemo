@@ -30,5 +30,8 @@ export const NavBar = () => (
     <LinkItem>
       <Link to="/resume">Resume</Link>
     </LinkItem>
+    <LinkItem>
+      <Link to="/resume">Veras</Link>
+    </LinkItem>
   </LinkList>
 )
